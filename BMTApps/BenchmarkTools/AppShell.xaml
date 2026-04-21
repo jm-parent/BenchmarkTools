@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="BenchmarkTools.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:BenchmarkTools.Views"
+    Title="BenchmarkTools"
+    Shell.FlyoutBehavior="Flyout">
+
+    <FlyoutItem Title="Home" Route="home">
+        <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate views:HomePage}"
+            Route="HomePage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Dashboard" Route="dashboard">
+        <ShellContent
+            Title="Dashboard"
+            ContentTemplate="{DataTemplate views:DashboardPage}"
+            Route="DashboardPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="About" Route="about">
+        <ShellContent
+            Title="About"
+            ContentTemplate="{DataTemplate views:AboutPage}"
+            Route="AboutPage" />
+    </FlyoutItem>
+
+    <FlyoutItem Title="Settings" Route="settings">
+        <ShellContent
+            Title="Settings"
+            ContentTemplate="{DataTemplate views:SettingsPage}"
+            Route="SettingsPage" />
+    </FlyoutItem>
+
+</Shell>
