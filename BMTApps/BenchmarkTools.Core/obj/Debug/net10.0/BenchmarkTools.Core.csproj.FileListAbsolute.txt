@@ -1,0 +1,13 @@
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\bin\Debug\net10.0\BenchmarkTools.Core.deps.json
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\bin\Debug\net10.0\BenchmarkTools.Core.dll
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\bin\Debug\net10.0\BenchmarkTools.Core.pdb
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\BenchmarkTools.Core.csproj.AssemblyReference.cache
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\BenchmarkTools.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\BenchmarkTools.Core.AssemblyInfoInputs.cache
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\BenchmarkTools.Core.AssemblyInfo.cs
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\BenchmarkTools.Core.csproj.CoreCompileInputs.cache
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\BenchmarkTools.Core.dll
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\refint\BenchmarkTools.Core.dll
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\BenchmarkTools.Core.pdb
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\ref\BenchmarkTools.Core.dll
+c:\NewAgentTeamTest\BMTApps\BenchmarkTools.Core\obj\Debug\net10.0\BenchmarkTools.Core.sourcelink.json

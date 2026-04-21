@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YFwPM4SK/ss=",
+  "success": true,
+  "projectFilePath": "c:\\NewAgentTeamTest\\BMTApps\\BenchmarkTools.Core\\BenchmarkTools.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeanmarie.parent\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.2\\communitytoolkit.mvvm.8.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
