@@ -32,7 +32,6 @@
                 Text="{Binding CounterText}" />
 
             <Button
-                x:Name="CounterBtn"
                 AutomationId="CounterButton"
                 Text="{Binding CounterText}"
                 Command="{Binding IncrementCounterCommand}"

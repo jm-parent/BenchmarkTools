@@ -24,6 +24,7 @@ public static class MauiProgram
 
 		// Services
 		builder.Services.AddSingleton<INavigationService, NavigationService>();
+		builder.Services.AddSingleton<IThemeService, ThemeService>();
 
 #if DEBUG
 		builder.AddMauiDevFlowAgent();

@@ -20,8 +20,15 @@ public partial class DashboardViewModel : BaseViewModel
     private async Task RefreshAsync()
     {
         IsBusy = true;
-        await Task.Delay(500); // simuler un chargement
-        LastActivity = $"Refreshed at {DateTime.Now:HH:mm:ss}";
-        IsBusy = false;
+        try
+        {
+            await Task.Delay(500);
+            TotalClicks++;
+            LastActivity = $"Refreshed at {DateTime.Now:HH:mm:ss}";
+        }
+        finally
+        {
+            IsBusy = false;
+        }
     }
 }
